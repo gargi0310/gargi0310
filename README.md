@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gargi Chaudhari</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fswayamshreenanda20%2Fswayamshreenanda20&psig=AOvVaw0-izRGgL2Bo8OjAt1tvWVB&ust=1702888110727000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDs9u6GloMDFQAAAAAdAAAAABAW)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargi0310&label=Profile%20views&color=0e75b6&style=flat" alt="gargi0310" /> </p>
 
